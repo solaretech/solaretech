@@ -1,7 +1,7 @@
 # About Me
 ## As a Member of Infratop.inc
 - Joining Product : DMM WEBCAMP
-- Role : Mentor Supporter(Management) / Tool Developer / Operator
+- Role : Contents Developer / Mentor Supporter(Management) / Tool Developer / Operator
 ## As a developer of Solare Square Lab(personal work)
 - Mainly : JavaScript, jQuery, Google Apps Script
 - Assignable : Ruby, Ruby on Rails
