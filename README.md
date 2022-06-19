@@ -1,14 +1,19 @@
 # About Me
+updated at :2022-06-19
 ## As a Member of Infratop.inc
 - Joining Product : DMM WEBCAMP
-- Role : Contents Developer / Mentor Supporter(Management) / Tool Developer / Operator
+- Role : Contents Developer / Tool Developer / Operator
 ## As a developer of Solare Square Lab(personal work)
-- Mainly : JavaScript, jQuery, Google Apps Script
-- Assignable : Ruby, Ruby on Rails
-## Learning
+### Mainly
+- HTML/CSS
+- JavaScript
+- jQuery
+- Google Apps Script
+### Assignable
+- Ruby, Ruby on Rails
 - React.js
 - TypeScript
-- Audio Networking
+
 
 # Contribution Summary
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=solaretech&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
