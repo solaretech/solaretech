@@ -1,9 +1,6 @@
 # About Me
 updated at :2022-06-19
-## As a Member of Infratop.inc
-- Joining Product : DMM WEBCAMP
-- Role : Contents Developer / Tool Developer / Operator
-## As a developer of Solare Square Lab(personal work)
+## As a developer
 ### Mainly
 - HTML/CSS
 - JavaScript
