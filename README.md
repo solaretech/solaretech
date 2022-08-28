@@ -1,3 +1,5 @@
+Frontend-Engineer in Kyoto
+
 # About Me
 updated at :2022-06-19
 ## As a developer
@@ -5,10 +7,11 @@ updated at :2022-06-19
 - HTML/CSS
 - JavaScript
 - jQuery
+- React.js
 - Google Apps Script
 ### Assignable
 - Ruby, Ruby on Rails
-- React.js
+- Next.js
 - TypeScript
 
 
