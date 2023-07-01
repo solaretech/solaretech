@@ -1,17 +1,19 @@
 Frontend-Engineer in Kyoto
 
 # About Me
-updated at :2022-06-19
+updated at :2023-07-01
 ## As a developer
 ### Now Mainly
 - HTML/CSS
 - JavaScript
+- React
+- vue
 - jQuery
+- Laravel
+- EC-CUBE
 ### Assignable
 - Ruby, Ruby on Rails
-- React.js
 - Next.js
-- vue.js
 - Nuxt.js
 - TypeScript
 - Google Apps Script
